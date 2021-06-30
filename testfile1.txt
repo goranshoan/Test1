@@ -2,6 +2,8 @@ The first testfile
 
 Purple
 Pink
-Organge
-Blue Red
+Orange
+Blue
+Red
+Green
 There are the colors of the testfile. 
