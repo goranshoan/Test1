@@ -6,5 +6,7 @@ Orange
 Blue
 Red
 Green
+Unicorn
 Yellow
 There are the colors of the testfile. 
+And the unicorn.
