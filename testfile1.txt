@@ -6,4 +6,5 @@ Orange
 Blue
 Red
 Green
+Yellow
 There are the colors of the testfile. 
